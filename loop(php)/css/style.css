@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+.titulo{
+    font-size: 80px;
+    color: white;
+}
+
+.fundo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    height: 200px;
+    border-left: 5px solid crimson;
+    border-right: 5px solid crimson;
+}
+
+.tabela{
+    display: flex;
+    padding-top: 30px;
+    align-items: center;
+    justify-content: center;
+}
